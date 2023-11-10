@@ -1,0 +1,100 @@
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou1.wav|안녕? 난 주바이르 극장의 닐루라고 해
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou2.wav|오늘은 이 춤을 준비했는데
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou3.wav|한눈 팔지 말고 지켜봐줘?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou4.wav|그럼, 시작할게
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou5.wav|먼저, 이렇게 하고, 다음 동작은 
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou6.wav|이렇게 하자, 음 음
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou7.wav|심호흡을 한 다음 풍선을 크게 불어서 졸음을 안에다 넣고
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou8.wav|후~
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou9.wav|하고 날려봐
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou10.wav|이렇게 여유로운 날도 나쁘지 않아.
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou11.wav|정말 한가하네
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou12.wav|날씨는 기분과도 같아.
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou13.wav|가끔 우중충해지지만, 조급할 필요가 없어
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou14.wav|비가 내리고 나면, 하늘은 더 맑아지니까
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou15.wav|번개소리가 조금 무섭네
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou16.wav|내가 신기한 방법 하나 알려줄까?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou17.wav|혹시 너도 겁나?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou18.wav|어?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou19.wav|우와~ 눈이다! 들어봐, 눈의 속사귐이 들려
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou20.wav|회전하는 눈송이를 보고 있으면, 마치 요정이 춤추고 있는 것 같지 않아?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou21.wav|하늘이 맑은 날에 따듯한 햇볓을 쬐면
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou22.wav|하아,
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou23.wav|잠이 솔솔 오지
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou24.wav|괜찮아? 모래바람을 조심해!
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou25.wav|좋은 아침
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou26.wav|응?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou27.wav|왜 그렇게 뚫어지게 봐?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou28.wav|머리가 눌렸나..?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou29.wav|흐앗
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou30.wav|보지 마
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou31.wav|바로 정리할게
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou32.wav|점심에 빵을 먹을까? 밥을 먹을까?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou33.wav|아니면, 으깬 콩이 좋으려나
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou34.wav|좋은 밤이야. 오늘 밤에 주바이르 극장에서 공연이 있는데
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou35.wav|표 몇장 줄까?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou36.wav|자기 전에 모든 고민을 털어버려야 푹 잘 수 있어
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou37.wav|너만 괜찮다면, 내가 고민을 다 들어줄게
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou38.wav|가끔은 말보다 춤이 감정을 더 쉽게 표현할 수 있어
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou39.wav|무슨 말을 해야 할지 모르겠을 땐, 춤을 춰봐
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou40.wav|지식을 탐구하려면, 엄청난 재능이 필요해
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou41.wav|필사적으로 노력해도, 성과가 없으면 결국 지치고 낙담하게 되지.
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou42.wav|하지만, 춤은 달라
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou43.wav|이러한 몸짓을 통해 예술의 아름다움과 가치를 느낄 수 있다면
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou44.wav|정말 기쁠거야
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou45.wav|가슴이 답답해?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou46.wav|화를 삭히는 건 좋지 않아
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou47.wav|자,
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou48.wav|나를 따라해봐
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou49.wav|먼저 오른 손으로
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou50.wav|앞에 커다란 원을 그린 다음
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou51.wav|두 손으로 가슴 속에서 기분 나쁜 일들을 몽땅 꺼내서
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou52.wav|원 안에 집어넣는 거야
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou53.wav|그리고, 있는 힘껏
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou54.wav|던저버려
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou55.wav|어때?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou56.wav|마음이
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou57.wav|좀 편해졌니?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou58.wav|수메르 성을 벗어나본 적 없지만, 너와 같이 모험을 떠나고 싶어
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou59.wav|낯선 곳에 가면, 잘 적응해볼게
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou60.wav|이나즈마의 모래에서는
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou61.wav|갑자기
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou62.wav|엄청 큰 모래벌레가 튀어나오는 일이 없다는 게
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou63.wav|사실이야?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou64.wav|내 신의 눈은
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou65.wav|첫 무대에서
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou66.wav|춤을 출 때 얻은거야
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou67.wav|신이 내 관중이 되었던 걸 보면
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou68.wav|분명 인간의 예술이
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou69.wav|아름답다고 생각하신 거겠지?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou70.wav|노력했는데도 결과가 없는 건, 이상한 일이 아니야
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou71.wav|내가 아무리 노력해도, 명론파의 지식을 이해할 수 없는 것처럼 말이야
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou72.wav|그럴 때는, 머리를 한번 흔들어주고, 방향을 전환해주면 돼
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou73.wav|수정 나비는 색이 다양해서 정말 예뻐
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou74.wav|호기심을 이기지 못해 손을 뻗어 만지려고 하면
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou75.wav|아름답고 빠른 춤을 추며, 너에게서 멀어질 거야
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou76.wav|나도 날 수 있다면, 수정 나비의 춤을 배울 수 있을텐데
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou77.wav|화신님이 춤을 추시면, 그분이 밟은 땅에는 진정한 파디사라가 활짝 피어났다고 해
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou78.wav|그 풍경을 직접 볼 수 있다면, 얼마나 좋을까?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou79.wav|아카데미아 사람은 다가가기가 꺼려져
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou80.wav|춤과 노래 같은 예술을 안 좋게 보거든
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou81.wav|그 사람들은 스트레스를 어떻게 푸는지, 종종 생각하고는 해
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou82.wav|어어? 사이노는 일곱 성인의 소환을 한다고? 뭔가 상상이 안 돼
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou83.wav|아주 훌륭한 식물학자라고 들었어, 버섯을 구분하는 능력도 정말 뛰어날거야
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou84.wav|그럼, 독버섯을 먹을 일은 없겠지?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou85.wav|부럽다
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou86.wav|가끔 내 공연을 보러 오는데, 정말 친절한 숲의 견습 순찰자야.
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou87.wav|나한테 길을 잃어버리지 말라고, 당부까지 하던데
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou88.wav|왜 그런 걸까?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou89.wav|난 길을 잃은 적이 한번도 없는 걸
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou90.wav|그 사람이 아름다운 알카자르 자례곡을 지었다고 들었어
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou91.wav|그런 작품을 만들 수 있다는 건, 정말 즐거운 일이겠지?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou92.wav|내가 춤을 연습할 때, 사람들에게 선보일 생각을 하면, 엄청 기쁘고 동기부여가 되는 것처럼 말이야
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou93.wav|근래에 이렇게 많은 일들이 있었다니
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou94.wav|정말 믿기지 않아
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou95.wav|바자르 친구들이 추천해 준 것을 전부 주려고 하니 너무 많고
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou96.wav|어떻게 하면 좋을까?
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou97.wav|통이 큰 도리 상인도 내 춤을 본 적이 있어
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou98.wav|한 번은 그 상인이, 주바이르씨와 무슨 이야기를 나누었는데
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou99.wav|그 뒤로는, 안 오더라고
+C:/Users/user/Desktop/stable-diffusion-webui/tacotron2/datasets/nilou/wav/nilou100.wav|도대체 무슨 이야기를 했을까?
